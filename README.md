@@ -4,6 +4,6 @@ If user selects the wrong move, They die!
 
 User may choose to restart the game until they win.
 
-Pyhton Logic used:
+Python Logic used:
 -Selections
 -conditions
